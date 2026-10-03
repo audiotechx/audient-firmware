@@ -1,1 +1,1 @@
-https://github.com/audiotechx/audient-dfu-application
+An easier way:  https://github.com/audiotechx/audient-dfu-application
